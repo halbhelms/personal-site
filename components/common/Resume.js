@@ -2,20 +2,20 @@ import ResumeItem from './ResumeItem';
 
 export default (props) => {
   return (
-    <div id="resume" class="text-center">
-      <div class="container">
-        <div class="section-title center">
+    <div id="resume" className="text-center">
+      <div className="container">
+        <div className="section-title center">
           <h2>Experience</h2>
           <hr />
         </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <ul class="timeline">
+        <div className="row">
+          <div className="col-lg-12">
+            <ul className="timeline">
               <ResumeItem position="UX Developer" company="Creative Agency" from="Feb 2013" to="Present">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
               </ResumeItem>
 
-              <ResumeItem position="Front-End Developer" company="Development Shop" from="Nov 2011" to="Jan 2013" class="timeline-inverted">
+              <ResumeItem position="Front-End Developer" company="Development Shop" from="Nov 2011" to="Jan 2013" className="timeline-inverted">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
               </ResumeItem>
 
@@ -26,17 +26,17 @@ export default (props) => {
           </div>
         </div>
       </div>
-      <div class="container">
-        <div class="section-title center">
+      <div className="container">
+        <div className="section-title center">
           <h2>Education</h2>
           <hr />
         </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <ul class="timeline">
+        <div className="row">
+          <div className="col-lg-12">
+            <ul className="timeline">
 
               {/* <!-- Education Section--> */}
-              <ResumeItem company="Design University" position="Master Degree of Design" from="2010" to="2011" class="timeline-inverted">
+              <ResumeItem company="Design University" position="Master Degree of Design" from="2010" to="2011" className="timeline-inverted">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
               </ResumeItem>
 
@@ -44,7 +44,7 @@ export default (props) => {
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
               </ResumeItem>
 
-              <ResumeItem company="Ohio State University" position="B.A" from="2006" to="2007" class="timeline-inverted">
+              <ResumeItem company="Ohio State University" position="B.A" from="2006" to="2007" className="timeline-inverted">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
               </ResumeItem>
 

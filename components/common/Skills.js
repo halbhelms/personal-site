@@ -2,13 +2,13 @@ import Skill from './Skill';
 
 export default (props) => {
   return (
-    <div id="skills" class="text-center">
-      <div class="container">
-        <div class="section-title center">
+    <div id="skills" className="text-center">
+      <div className="container">
+        <div className="section-title center">
           <h2>Skills</h2>
           <hr />
         </div>
-        <div class="row">
+        <div className="row">
           <Skill type="HTML" percent="95" />
           <Skill type="CSS3" percent="85" />
           <Skill type="jQuery" percent="80" />

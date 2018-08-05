@@ -88,13 +88,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 3
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "section-title text-center center",
+    className: "section-title text-center center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
@@ -110,32 +110,32 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 7
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-12 text-center",
+    className: "col-md-12 text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", {
     src: "static/img/about.jpg",
-    "class": "img-responsive",
+    className: "img-responsive",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-8 col-md-offset-2",
+    className: "col-md-8 col-md-offset-2",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "about-text",
+    className: "about-text",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -151,20 +151,20 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 14
     }
   }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-    "class": "text-center",
+    className: "text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    "class": "btn btn-primary",
+    className: "btn btn-primary",
     href: "#",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-download",
+    className: "fa fa-download",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
@@ -184,20 +184,20 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-3 col-sm-3 wow fadeInDown",
+    className: "col-md-3 col-sm-3 wow fadeInDown",
     "data-wow-delay": "200ms",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "achievement-box",
+    className: "achievement-box",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
-    "class": "count",
+    className: "count",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
@@ -225,19 +225,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     id: "achievements",
-    "class": "text-center",
+    className: "text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "section-title center",
+    className: "section-title center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -253,7 +253,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 9
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
@@ -302,19 +302,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     id: "contact",
-    "class": "text-center",
+    className: "text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "section-title center",
+    className: "section-title center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
@@ -330,19 +330,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 7
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-8 col-md-offset-2",
+    className: "col-md-8 col-md-offset-2",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-4",
+    className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-map-marker fa-2x",
+    className: "fa fa-map-marker fa-2x",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -358,13 +358,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 11
     }
   }), "San Francisco, CA 12345")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-4",
+    className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-envelope-o fa-2x",
+    className: "fa fa-envelope-o fa-2x",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
@@ -375,13 +375,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 15
     }
   }, "info@company.com")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-4",
+    className: "col-md-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-phone fa-2x",
+    className: "fa fa-phone fa-2x",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -392,13 +392,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 18
     }
   }, " +1 123 456 1234")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "clearfix",
+    className: "clearfix",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-8 col-md-offset-2",
+    className: "col-md-8 col-md-offset-2",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
@@ -411,25 +411,25 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
   }, "Leave me a message"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("form", {
     name: "sentMessage",
     id: "contactForm",
-    novalidate: true,
+    noValidate: true,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 25
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-6",
+    className: "col-md-6",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "form-group",
+    className: "form-group",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
@@ -437,7 +437,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("input", {
     type: "text",
     id: "name",
-    "class": "form-control",
+    className: "form-control",
     placeholder: "Name",
     required: "required",
     __source: {
@@ -445,19 +445,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 28
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-    "class": "help-block text-danger",
+    className: "help-block text-danger",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29
     }
   }))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-6",
+    className: "col-md-6",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "form-group",
+    className: "form-group",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
@@ -465,7 +465,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("input", {
     type: "email",
     id: "email",
-    "class": "form-control",
+    className: "form-control",
     placeholder: "Email",
     required: "required",
     __source: {
@@ -473,13 +473,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 34
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-    "class": "help-block text-danger",
+    className: "help-block text-danger",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 35
     }
   })))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "form-group",
+    className: "form-group",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 39
@@ -487,7 +487,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("textarea", {
     name: "message",
     id: "message",
-    "class": "form-control",
+    className: "form-control",
     rows: "4",
     placeholder: "Message",
     required: true,
@@ -496,7 +496,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 40
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-    "class": "help-block text-danger",
+    className: "help-block text-danger",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 41
@@ -509,13 +509,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("button", {
     type: "submit",
-    "class": "btn btn-default",
+    className: "btn btn-default",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 44
     }
   }, "Send Message")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "social",
+    className: "social",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 46
@@ -537,7 +537,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 48
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-facebook",
+    className: "fa fa-facebook",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 48
@@ -554,7 +554,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 49
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-twitter",
+    className: "fa fa-twitter",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 49
@@ -571,7 +571,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 50
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-dribbble",
+    className: "fa fa-dribbble",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 50
@@ -588,7 +588,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 51
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-github",
+    className: "fa fa-github",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 51
@@ -605,7 +605,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 52
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-instagram",
+    className: "fa fa-instagram",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 52
@@ -622,7 +622,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 53
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-linkedin",
+    className: "fa fa-linkedin",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 53
@@ -648,13 +648,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 3
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container text-center",
+    className: "container text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "fnav",
+    className: "fnav",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
@@ -832,25 +832,25 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 3
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "intro",
+    className: "intro",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "intro-text",
+    className: "intro-text",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -861,7 +861,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 8
     }
   }, "Hello, I'm ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
-    "class": "name",
+    className: "name",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
@@ -873,7 +873,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
     }
   }, "UX Designer & Front End Developer"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "#about",
-    "class": "btn btn-default btn-lg page-scroll",
+    className: "btn btn-default btn-lg page-scroll",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -902,26 +902,26 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 5
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("nav", {
-    "class": "navbar navbar-custom",
+    className: "navbar navbar-custom",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "navbar-header",
+    className: "navbar-header",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("button", {
     type: "button",
-    "class": "navbar-toggle",
+    className: "navbar-toggle",
     "data-toggle": "collapse",
     "data-target": ".navbar-main-collapse",
     __source: {
@@ -929,32 +929,32 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 9
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("i", {
-    "class": "fa fa-bars",
+    className: "fa fa-bars",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     }
   }), " "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    "class": "navbar-brand page-scroll",
+    className: "navbar-brand page-scroll",
     href: "#page-top",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     }
   }, "John Doe"), " "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "collapse navbar-collapse navbar-right navbar-main-collapse",
+    className: "collapse navbar-collapse navbar-right navbar-main-collapse",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul", {
-    "class": "nav navbar-nav",
+    className: "nav navbar-nav",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li", {
-    "class": "hidden",
+    className: "hidden",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -971,7 +971,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 18
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    "class": "page-scroll",
+    className: "page-scroll",
     href: "#about",
     __source: {
       fileName: _jsxFileName,
@@ -983,7 +983,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 19
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    "class": "page-scroll",
+    className: "page-scroll",
     href: "#skills",
     __source: {
       fileName: _jsxFileName,
@@ -995,7 +995,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 20
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    "class": "page-scroll",
+    className: "page-scroll",
     href: "#portfolio",
     __source: {
       fileName: _jsxFileName,
@@ -1007,7 +1007,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 21
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    "class": "page-scroll",
+    className: "page-scroll",
     href: "#resume",
     __source: {
       fileName: _jsxFileName,
@@ -1019,7 +1019,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 22
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
-    "class": "page-scroll",
+    className: "page-scroll",
     href: "#contact",
     __source: {
       fileName: _jsxFileName,
@@ -1048,13 +1048,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 5
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "section-title text-center center",
+    className: "section-title text-center center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -1070,13 +1070,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 9
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "categories",
+    className: "categories",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul", {
-    "class": "cat",
+    className: "cat",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -1087,7 +1087,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 13
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ol", {
-    "class": "type",
+    className: "type",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
@@ -1100,7 +1100,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     href: "#",
     "data-filter": "*",
-    "class": "active",
+    className: "active",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
@@ -1142,19 +1142,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 18
     }
   }, "Branding"))))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "clearfix",
+    className: "clearfix",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "portfolio-items",
+    className: "portfolio-items",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 25
@@ -1262,19 +1262,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-sm-6 col-md-3 col-lg-3 ".concat(props.filter),
+    className: "col-sm-6 col-md-3 col-lg-3 ".concat(props.filter),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "portfolio-item",
+    className: "portfolio-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "hover-bg",
+    className: "hover-bg",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
@@ -1288,7 +1288,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 5
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "hover-text",
+    className: "hover-text",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
@@ -1305,7 +1305,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
     }
   }, props.category), " "), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", {
     src: "static/img/portfolio/".concat(props.small_image),
-    "class": "img-responsive",
+    className: "img-responsive",
     alt: props.project_title,
     __source: {
       fileName: _jsxFileName,
@@ -1329,19 +1329,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     id: "resume",
-    "class": "text-center",
+    className: "text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "section-title center",
+    className: "section-title center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -1357,19 +1357,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 9
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-lg-12",
+    className: "col-lg-12",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul", {
-    "class": "timeline",
+    className: "timeline",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
@@ -1393,7 +1393,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
     company: "Development Shop",
     from: "Nov 2011",
     to: "Jan 2013",
-    "class": "timeline-inverted",
+    className: "timeline-inverted",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
@@ -1418,13 +1418,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 23
     }
   }, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.")))))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "section-title center",
+    className: "section-title center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30
@@ -1440,19 +1440,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 32
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-lg-12",
+    className: "col-lg-12",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 35
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("ul", {
-    "class": "timeline",
+    className: "timeline",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 36
@@ -1462,7 +1462,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
     position: "Master Degree of Design",
     from: "2010",
     to: "2011",
-    "class": "timeline-inverted",
+    className: "timeline-inverted",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 39
@@ -1491,7 +1491,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
     position: "B.A",
     from: "2006",
     to: "2007",
-    "class": "timeline-inverted",
+    className: "timeline-inverted",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 47
@@ -1530,13 +1530,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("li", {
-    "class": props.class,
+    className: props.class,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "timeline-image",
+    className: "timeline-image",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
@@ -1557,13 +1557,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 6
     }
   }), props.to, " ")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "timeline-panel",
+    className: "timeline-panel",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "timeline-heading",
+    className: "timeline-heading",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -1574,13 +1574,13 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 11
     }
   }, props.company), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h4", {
-    "class": "subheading",
+    className: "subheading",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
     }
   }, props.position)), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "timeline-body",
+    className: "timeline-body",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
@@ -1600,20 +1600,20 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "col-md-4 col-sm-6 skill",
+    className: "col-md-4 col-sm-6 skill",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
-    "class": "chart",
+    className: "chart",
     "data-percent": props.percent,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
     }
   }, " ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
-    "class": "percent",
+    className: "percent",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
@@ -1641,19 +1641,19 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
     id: "skills",
-    "class": "text-center",
+    className: "text-center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "container",
+    className: "container",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "section-title center",
+    className: "section-title center",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -1669,7 +1669,7 @@ var _jsxFileName = "/Users/halhelms/Dev/projects/wise-guides/personal-site/compo
       lineNumber: 9
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    "class": "row",
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11

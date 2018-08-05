@@ -1,17 +1,17 @@
 export default (props) => {
   return (
-    <li class={props.class}>
-      <div class="timeline-image">
+    <li className={props.class}>
+      <div className="timeline-image">
         <h4>{props.from} <br />
           - <br />
           {props.to} </h4>
       </div>
-      <div class="timeline-panel">
-        <div class="timeline-heading">
+      <div className="timeline-panel">
+        <div className="timeline-heading">
           <h4>{props.company}</h4>
-          <h4 class="subheading">{props.position}</h4>
+          <h4 className="subheading">{props.position}</h4>
         </div>
-        <div class="timeline-body">
+        <div className="timeline-body">
           {props.children}
         </div>
       </div>
